@@ -280,6 +280,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/samirjout/dsa.cpp/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2039-sum-game](https://github.com/nevercooked/dsa.cpp/tree/master/2039-sum-game) |
@@ -393,6 +394,7 @@
 | [0503-next-greater-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/samirjout/dsa.cpp/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
@@ -813,4 +815,8 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/nevercooked/dsa.cpp/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/nevercooked/dsa.cpp/tree/master/1501-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
