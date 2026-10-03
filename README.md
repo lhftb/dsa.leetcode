@@ -264,6 +264,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samirjout/dsa.cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/samirjout/dsa.cpp/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/samirjout/dsa.cpp/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/samirjout/dsa.cpp/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
@@ -332,6 +333,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0064-minimum-path-sum) |
@@ -389,6 +391,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samirjout/dsa.cpp/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/nevercooked/dsa.cpp/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0503-next-greater-element-ii) |
@@ -819,5 +822,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0032-longest-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
