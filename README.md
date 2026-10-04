@@ -274,6 +274,7 @@
 | [0344-reverse-string](https://github.com/nevercooked/dsa.cpp/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nevercooked/dsa.cpp/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/nevercooked/dsa.cpp/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/nevercooked/dsa.cpp/tree/master/0812-rotate-string) |
 | [0977-distinct-subsequences-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -309,6 +310,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samirjout/dsa.cpp/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/nevercooked/dsa.cpp/tree/master/0678-valid-parenthesis-string) |
 | [1081-video-stitching](https://github.com/nevercooked/dsa.cpp/tree/master/1081-video-stitching) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
@@ -346,6 +348,7 @@
 | [0392-is-subsequence](https://github.com/nevercooked/dsa.cpp/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
 | [0576-out-of-boundary-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0576-out-of-boundary-paths) |
+| [0678-valid-parenthesis-string](https://github.com/nevercooked/dsa.cpp/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/nevercooked/dsa.cpp/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/nevercooked/dsa.cpp/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/nevercooked/dsa.cpp/tree/master/0804-rotated-digits) |
@@ -395,6 +398,7 @@
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/nevercooked/dsa.cpp/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/nevercooked/dsa.cpp/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -823,5 +827,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/nevercooked/dsa.cpp/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
