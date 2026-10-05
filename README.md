@@ -276,6 +276,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/nevercooked/dsa.cpp/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/nevercooked/dsa.cpp/tree/master/0812-rotate-string) |
+| [0886-score-of-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0886-score-of-parentheses) |
 | [0977-distinct-subsequences-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -399,6 +400,7 @@
 | [0155-min-stack](https://github.com/nevercooked/dsa.cpp/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nevercooked/dsa.cpp/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/samirjout/dsa.cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -828,5 +830,6 @@
 | [0020-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nevercooked/dsa.cpp/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nevercooked/dsa.cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
