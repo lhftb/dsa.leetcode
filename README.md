@@ -95,6 +95,7 @@
 | [2721-sum-of-distances](https://github.com/nevercooked/dsa.cpp/tree/master/2721-sum-of-distances) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/nevercooked/dsa.cpp/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/nevercooked/dsa.cpp/tree/master/2892-check-if-array-is-good) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -602,6 +603,7 @@
 | [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/nevercooked/dsa.cpp/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/nevercooked/dsa.cpp/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/nevercooked/dsa.cpp/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/nevercooked/dsa.cpp/tree/master/3805-maximize-active-section-with-trade-i) |
