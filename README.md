@@ -342,6 +342,7 @@
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/nevercooked/dsa.cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/nevercooked/dsa.cpp/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -660,6 +661,7 @@
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nevercooked/dsa.cpp/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/nevercooked/dsa.cpp/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nevercooked/dsa.cpp/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
