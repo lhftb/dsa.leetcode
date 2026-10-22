@@ -128,6 +128,7 @@
 | [4107-find-missing-elements](https://github.com/nevercooked/dsa.cpp/tree/master/4107-find-missing-elements) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4184-minimum-operations-to-sort-a-permutation](https://github.com/nevercooked/dsa.cpp/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
 | [4256-construct-uniform-parity-array-i](https://github.com/nevercooked/dsa.cpp/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/nevercooked/dsa.cpp/tree/master/4284-smallest-stable-index-i) |
