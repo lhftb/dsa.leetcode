@@ -116,6 +116,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/nevercooked/dsa.cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3919-network-recovery-pathways](https://github.com/nevercooked/dsa.cpp/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/nevercooked/dsa.cpp/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nevercooked/dsa.cpp/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3981-jump-game-ix](https://github.com/nevercooked/dsa.cpp/tree/master/3981-jump-game-ix) |
@@ -603,6 +604,7 @@
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/nevercooked/dsa.cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/nevercooked/dsa.cpp/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nevercooked/dsa.cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
