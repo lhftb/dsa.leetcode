@@ -298,6 +298,7 @@
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2039-sum-game](https://github.com/nevercooked/dsa.cpp/tree/master/2039-sum-game) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nevercooked/dsa.cpp/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2496-count-days-spent-together](https://github.com/nevercooked/dsa.cpp/tree/master/2496-count-days-spent-together) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nevercooked/dsa.cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -653,6 +654,7 @@
 | [2156-stone-game-ix](https://github.com/nevercooked/dsa.cpp/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2496-count-days-spent-together](https://github.com/nevercooked/dsa.cpp/tree/master/2496-count-days-spent-together) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/samirjout/dsa.cpp/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/nevercooked/dsa.cpp/tree/master/3626-smallest-divisible-digit-product-i) |
