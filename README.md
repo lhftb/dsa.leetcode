@@ -128,6 +128,7 @@
 | [4078-maximum-alternating-sum-of-squares](https://github.com/nevercooked/dsa.cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/nevercooked/dsa.cpp/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/nevercooked/dsa.cpp/tree/master/4107-find-missing-elements) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/nevercooked/dsa.cpp/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/nevercooked/dsa.cpp/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -672,6 +673,7 @@
 | [3964-number-of-zigzag-arrays-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nevercooked/dsa.cpp/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/nevercooked/dsa.cpp/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/nevercooked/dsa.cpp/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nevercooked/dsa.cpp/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
