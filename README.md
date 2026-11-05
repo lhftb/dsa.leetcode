@@ -59,6 +59,7 @@
 | [1428-jump-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1487-cinema-seat-allocation](https://github.com/nevercooked/dsa.cpp/tree/master/1487-cinema-seat-allocation) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -203,6 +204,7 @@
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1256-rank-transform-of-an-array) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -259,6 +261,7 @@
 | [0392-is-subsequence](https://github.com/nevercooked/dsa.cpp/tree/master/0392-is-subsequence) |
 | [0723-candy-crush](https://github.com/nevercooked/dsa.cpp/tree/master/0723-candy-crush) |
 | [1019-squares-of-a-sorted-array](https://github.com/nevercooked/dsa.cpp/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/samirjout/dsa.cpp/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nevercooked/dsa.cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -444,6 +447,7 @@
 | [0755-reach-a-number](https://github.com/samirjout/dsa.cpp/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/nevercooked/dsa.cpp/tree/master/0907-koko-eating-bananas) |
 | [1066-fixed-point](https://github.com/nevercooked/dsa.cpp/tree/master/1066-fixed-point) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/nevercooked/dsa.cpp/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
