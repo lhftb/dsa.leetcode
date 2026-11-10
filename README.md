@@ -125,6 +125,7 @@
 | [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nevercooked/dsa.cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4041-climbing-stairs-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4041-climbing-stairs-ii) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/nevercooked/dsa.cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/nevercooked/dsa.cpp/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -397,6 +398,7 @@
 | [3964-number-of-zigzag-arrays-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3981-jump-game-ix](https://github.com/nevercooked/dsa.cpp/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4041-climbing-stairs-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4041-climbing-stairs-ii) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/nevercooked/dsa.cpp/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
 |  |
