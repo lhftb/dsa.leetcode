@@ -12,14 +12,7 @@ class Solution:
         )
         if n == 2:
             return dp[2]
-        dp[3] = min(
-            dp[0] + costs[2] + ((3 - 0) ** 2),
-            min(
-                dp[1] + costs[2] + ((3 - 1) ** 2),
-                dp[2] + costs[2] + ((3 - 2) ** 2)
-            )
-        )
-        for i in range(4, n + 1):
+        for i in range(3, n + 1):
             dp[i] = min(
                 dp[i - 3] + costs[i - 1] + ((i - (i - 3)) ** 2),
                 min(
