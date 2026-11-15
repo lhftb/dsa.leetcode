@@ -301,6 +301,7 @@
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/nevercooked/dsa.cpp/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nevercooked/dsa.cpp/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nevercooked/dsa.cpp/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -413,6 +414,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/nevercooked/dsa.cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/nevercooked/dsa.cpp/tree/master/0713-subarray-product-less-than-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nevercooked/dsa.cpp/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/samirjout/dsa.cpp/tree/master/2786-find-the-longest-semi-repetitive-substring) |
