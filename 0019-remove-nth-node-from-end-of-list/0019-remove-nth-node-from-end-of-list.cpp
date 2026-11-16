@@ -11,17 +11,19 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        const auto& dummy = std::make_shared<ListNode>(0, head);
-        ListNode* prev    = dummy.get();
-        ListNode* end     = dummy.get();
-        for (int i = 0; i < n && end; ++i) {
-            end = end->next;
+        ListNode  dummy = ListNode(0, head);
+        ListNode* left  = &dummy;
+        ListNode* right = head;
+        for (int i = 1; i < n; ++i) {
+            right = right->next;
         }
-        while (end && end->next) {
-            prev = prev->next;
-            end  = end->next;
+        while (right && right->next) {
+            left  = left->next;
+            right = right->next;
         }
-        prev->next = prev->next->next;
-        return dummy->next;
+        if (left->next) {
+            left->next = left->next->next;
+        }
+        return dummy.next;
     }
 };
