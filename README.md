@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/samirjout/dsa.cpp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nevercooked/dsa.cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/nevercooked/dsa.cpp/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/nevercooked/dsa.cpp/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/nevercooked/dsa.cpp/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
@@ -534,6 +535,7 @@
 | [0098-validate-binary-search-tree](https://github.com/samirjout/dsa.cpp/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/samirjout/dsa.cpp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samirjout/dsa.cpp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/nevercooked/dsa.cpp/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/samirjout/dsa.cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/samirjout/dsa.cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
@@ -553,6 +555,7 @@
 | [0100-same-tree](https://github.com/samirjout/dsa.cpp/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/samirjout/dsa.cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samirjout/dsa.cpp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/nevercooked/dsa.cpp/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1428-jump-game-iii) |
@@ -703,6 +706,7 @@
 | [0063-unique-paths-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nevercooked/dsa.cpp/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nevercooked/dsa.cpp/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/nevercooked/dsa.cpp/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
 | [0723-candy-crush](https://github.com/nevercooked/dsa.cpp/tree/master/0723-candy-crush) |
 | [0864-image-overlap](https://github.com/nevercooked/dsa.cpp/tree/master/0864-image-overlap) |
@@ -742,6 +746,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nevercooked/dsa.cpp/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1663-detect-cycles-in-2d-grid) |
