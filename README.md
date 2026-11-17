@@ -505,6 +505,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/samirjout/dsa.cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/nevercooked/dsa.cpp/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/nevercooked/dsa.cpp/tree/master/0744-network-delay-time) |
 | [0761-employee-free-time](https://github.com/nevercooked/dsa.cpp/tree/master/0761-employee-free-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -540,6 +541,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/samirjout/dsa.cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/samirjout/dsa.cpp/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/nevercooked/dsa.cpp/tree/master/0744-network-delay-time) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1428-jump-game-iii) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -557,6 +559,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/samirjout/dsa.cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/nevercooked/dsa.cpp/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/nevercooked/dsa.cpp/tree/master/0463-island-perimeter) |
+| [0744-network-delay-time](https://github.com/nevercooked/dsa.cpp/tree/master/0744-network-delay-time) |
 | [1380-number-of-closed-islands](https://github.com/nevercooked/dsa.cpp/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
@@ -819,6 +822,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/nevercooked/dsa.cpp/tree/master/0744-network-delay-time) |
 | [2793-count-the-number-of-complete-components](https://github.com/nevercooked/dsa.cpp/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/nevercooked/dsa.cpp/tree/master/3561-remove-methods-from-project) |
 | [3919-network-recovery-pathways](https://github.com/nevercooked/dsa.cpp/tree/master/3919-network-recovery-pathways) |
@@ -829,6 +833,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/nevercooked/dsa.cpp/tree/master/0744-network-delay-time) |
 | [3919-network-recovery-pathways](https://github.com/nevercooked/dsa.cpp/tree/master/3919-network-recovery-pathways) |
 ## Combinatorics
 |  |
@@ -886,4 +891,8 @@
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/nevercooked/dsa.cpp/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/nevercooked/dsa.cpp/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
