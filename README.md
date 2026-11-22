@@ -311,6 +311,7 @@
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2039-sum-game](https://github.com/nevercooked/dsa.cpp/tree/master/2039-sum-game) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nevercooked/dsa.cpp/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/nevercooked/dsa.cpp/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2496-count-days-spent-together](https://github.com/nevercooked/dsa.cpp/tree/master/2496-count-days-spent-together) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/nevercooked/dsa.cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
