@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int i = -1;
-        for (int j = 0; j < s.size(); ++j) {
-            if (s[j] == 'b') {
-                i = j;
+        bool found = false;
+        for (const auto& ch : s) {
+            if (ch == 'b') {
+                found = true;
             }
-            else if (i != -1) {
+            else if (found) {
                 return false;
             }
         }
