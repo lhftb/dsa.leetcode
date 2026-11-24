@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/samirjout/dsa.cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samirjout/dsa.cpp/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/nevercooked/dsa.cpp/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/nevercooked/dsa.cpp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nevercooked/dsa.cpp/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/nevercooked/dsa.cpp/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nevercooked/dsa.cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -266,6 +267,7 @@
 | [0141-linked-list-cycle](https://github.com/samirjout/dsa.cpp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/samirjout/dsa.cpp/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nevercooked/dsa.cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/nevercooked/dsa.cpp/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nevercooked/dsa.cpp/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nevercooked/dsa.cpp/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nevercooked/dsa.cpp/tree/master/0557-reverse-words-in-a-string-iii) |
