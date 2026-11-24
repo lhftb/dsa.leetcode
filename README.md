@@ -74,6 +74,7 @@
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1833-find-the-highest-altitude](https://github.com/nevercooked/dsa.cpp/tree/master/1833-find-the-highest-altitude) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/nevercooked/dsa.cpp/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1848-sum-of-unique-elements](https://github.com/nevercooked/dsa.cpp/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nevercooked/dsa.cpp/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nevercooked/dsa.cpp/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/nevercooked/dsa.cpp/tree/master/1961-maximum-ice-cream-bars) |
@@ -170,6 +171,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1848-sum-of-unique-elements](https://github.com/nevercooked/dsa.cpp/tree/master/1848-sum-of-unique-elements) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nevercooked/dsa.cpp/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/nevercooked/dsa.cpp/tree/master/2634-minimum-common-value) |
@@ -617,6 +619,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nevercooked/dsa.cpp/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/samirjout/dsa.cpp/tree/master/0900-reordered-power-of-2) |
 | [1169-largest-values-from-labels](https://github.com/samirjout/dsa.cpp/tree/master/1169-largest-values-from-labels) |
+| [1848-sum-of-unique-elements](https://github.com/nevercooked/dsa.cpp/tree/master/1848-sum-of-unique-elements) |
 | [2156-stone-game-ix](https://github.com/nevercooked/dsa.cpp/tree/master/2156-stone-game-ix) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
