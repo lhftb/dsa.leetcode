@@ -112,6 +112,7 @@
 | [3355-minimum-levels-to-gain-more-points](https://github.com/samirjout/dsa.cpp/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3376-longest-common-suffix-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3376-longest-common-suffix-queries) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nevercooked/dsa.cpp/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/nevercooked/dsa.cpp/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
@@ -425,6 +426,7 @@
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nevercooked/dsa.cpp/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nevercooked/dsa.cpp/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/samirjout/dsa.cpp/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nevercooked/dsa.cpp/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -643,6 +645,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/nevercooked/dsa.cpp/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/nevercooked/dsa.cpp/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/nevercooked/dsa.cpp/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nevercooked/dsa.cpp/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/nevercooked/dsa.cpp/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nevercooked/dsa.cpp/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -687,6 +690,7 @@
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/nevercooked/dsa.cpp/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nevercooked/dsa.cpp/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3831-find-x-value-of-array-i](https://github.com/nevercooked/dsa.cpp/tree/master/3831-find-x-value-of-array-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -785,6 +789,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nevercooked/dsa.cpp/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nevercooked/dsa.cpp/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nevercooked/dsa.cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nevercooked/dsa.cpp/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Design
